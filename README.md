@@ -9,5 +9,5 @@
 
 
 ## Conclusion ##
-The Architecture and parameter used in this network are capable of producing accuracy of 88.90% 
+The Architecture and parameter used in this network are capable of producing accuracy of 94.98% 
 on Validation Data which is pretty good. You can download this trained model from resource directory and Play with it.
